@@ -1,0 +1,15 @@
+{
+    "from_address": "my_address@gmail.com",
+    "smtp_server": "smtp.gmail.com:587",
+    "smtp_user": "my_address",
+    "smtp_pass": "secret",
+    "state_filename": "have_emailed.csv",
+    "subject": "Greetings!",
+    "csv_filename": "names.csv",
+    "message_filename": "message.txt",
+    "name_col_index": "",
+    "to_col_index": 2,
+    "cc_col_index": 3,
+    "max_emails_to_send_per_day": 1,
+    "email_interval_in_seconds": 10
+}
